@@ -13,9 +13,11 @@
 - 🏭 [Food Processing Web App](https://github.com/lechiobayi/Processingfoods) – An interactive guide on food processing.  
 
 ### 📊 GitHub Stats  
+![Lechi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lech12&show_icons=true&theme=radical)
 
-![Lechi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lechiobayi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lechiobayi&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lechi12E&layout=compact&theme=radical)
+
+  
 
 ### 🛠️ Tech Stack  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
