@@ -15,7 +15,7 @@
 ### 📊 GitHub Stats  
 ![Lechi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lech12&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lechi12E&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lechi12&layout=compact&theme=radical)
 
   
 
